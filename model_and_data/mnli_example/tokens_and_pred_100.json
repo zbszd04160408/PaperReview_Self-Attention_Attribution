@@ -1,0 +1,3912 @@
+[
+  {
+    "index": 0,
+    "tokens": [
+      "[CLS]",
+      "it",
+      "'",
+      "s",
+      "a",
+      "charming",
+      "and",
+      "often",
+      "affecting",
+      "journey",
+      ".",
+      "[SEP]"
+    ],
+    "pred": "1",
+    "golden": "1",
+    "pred_logits": [
+      [
+        -3.9679789543151855,
+        4.49744176864624
+      ]
+    ]
+  },
+  {
+    "index": 1,
+    "tokens": [
+      "[CLS]",
+      "un",
+      "##f",
+      "##lin",
+      "##ching",
+      "##ly",
+      "bleak",
+      "and",
+      "desperate",
+      "[SEP]"
+    ],
+    "pred": "0",
+    "golden": "0",
+    "pred_logits": [
+      [
+        1.2411009073257446,
+        -1.807685375213623
+      ]
+    ]
+  },
+  {
+    "index": 2,
+    "tokens": [
+      "[CLS]",
+      "allows",
+      "us",
+      "to",
+      "hope",
+      "that",
+      "no",
+      "##lan",
+      "is",
+      "poised",
+      "to",
+      "em",
+      "##bark",
+      "a",
+      "major",
+      "career",
+      "as",
+      "a",
+      "commercial",
+      "yet",
+      "in",
+      "##vent",
+      "##ive",
+      "filmmaker",
+      ".",
+      "[SEP]"
+    ],
+    "pred": "1",
+    "golden": "1",
+    "pred_logits": [
+      [
+        -4.277557373046875,
+        4.898298740386963
+      ]
+    ]
+  },
+  {
+    "index": 3,
+    "tokens": [
+      "[CLS]",
+      "the",
+      "acting",
+      ",",
+      "costumes",
+      ",",
+      "music",
+      ",",
+      "cinema",
+      "##tography",
+      "and",
+      "sound",
+      "are",
+      "all",
+      "as",
+      "##to",
+      "##und",
+      "##ing",
+      "given",
+      "the",
+      "production",
+      "'",
+      "s",
+      "au",
+      "##ster",
+      "##e",
+      "local",
+      "##es",
+      ".",
+      "[SEP]"
+    ],
+    "pred": "1",
+    "golden": "1",
+    "pred_logits": [
+      [
+        -4.108993053436279,
+        4.599726676940918
+      ]
+    ]
+  },
+  {
+    "index": 4,
+    "tokens": [
+      "[CLS]",
+      "it",
+      "'",
+      "s",
+      "slow",
+      "-",
+      "-",
+      "very",
+      ",",
+      "very",
+      "slow",
+      ".",
+      "[SEP]"
+    ],
+    "pred": "0",
+    "golden": "0",
+    "pred_logits": [
+      [
+        4.255852699279785,
+        -4.39801025390625
+      ]
+    ]
+  },
+  {
+    "index": 5,
+    "tokens": [
+      "[CLS]",
+      "although",
+      "laced",
+      "with",
+      "humor",
+      "and",
+      "a",
+      "few",
+      "fan",
+      "##ci",
+      "##ful",
+      "touches",
+      ",",
+      "the",
+      "film",
+      "is",
+      "a",
+      "re",
+      "##f",
+      "##reshing",
+      "##ly",
+      "serious",
+      "look",
+      "at",
+      "young",
+      "women",
+      ".",
+      "[SEP]"
+    ],
+    "pred": "1",
+    "golden": "1",
+    "pred_logits": [
+      [
+        -4.332890033721924,
+        4.88140344619751
+      ]
+    ]
+  },
+  {
+    "index": 6,
+    "tokens": [
+      "[CLS]",
+      "a",
+      "sometimes",
+      "te",
+      "##dious",
+      "film",
+      ".",
+      "[SEP]"
+    ],
+    "pred": "0",
+    "golden": "0",
+    "pred_logits": [
+      [
+        3.516878366470337,
+        -3.9073495864868164
+      ]
+    ]
+  },
+  {
+    "index": 7,
+    "tokens": [
+      "[CLS]",
+      "or",
+      "doing",
+      "last",
+      "year",
+      "'",
+      "s",
+      "taxes",
+      "with",
+      "your",
+      "ex",
+      "-",
+      "wife",
+      ".",
+      "[SEP]"
+    ],
+    "pred": "0",
+    "golden": "0",
+    "pred_logits": [
+      [
+        2.409780502319336,
+        -2.799199104309082
+      ]
+    ]
+  },
+  {
+    "index": 8,
+    "tokens": [
+      "[CLS]",
+      "you",
+      "do",
+      "n",
+      "'",
+      "t",
+      "have",
+      "to",
+      "know",
+      "about",
+      "music",
+      "to",
+      "appreciate",
+      "the",
+      "film",
+      "'",
+      "s",
+      "easy",
+      "##going",
+      "blend",
+      "of",
+      "comedy",
+      "and",
+      "romance",
+      ".",
+      "[SEP]"
+    ],
+    "pred": "1",
+    "golden": "1",
+    "pred_logits": [
+      [
+        -4.2712202072143555,
+        4.7155561447143555
+      ]
+    ]
+  },
+  {
+    "index": 9,
+    "tokens": [
+      "[CLS]",
+      "in",
+      "exactly",
+      "89",
+      "minutes",
+      ",",
+      "most",
+      "of",
+      "which",
+      "passed",
+      "as",
+      "slowly",
+      "as",
+      "if",
+      "i",
+      "'",
+      "d",
+      "been",
+      "sitting",
+      "naked",
+      "on",
+      "an",
+      "i",
+      "##g",
+      "##lo",
+      "##o",
+      ",",
+      "formula",
+      "51",
+      "sank",
+      "from",
+      "q",
+      "##ui",
+      "##rky",
+      "to",
+      "jerk",
+      "##y",
+      "to",
+      "utter",
+      "turkey",
+      ".",
+      "[SEP]"
+    ],
+    "pred": "0",
+    "golden": "0",
+    "pred_logits": [
+      [
+        3.6994638442993164,
+        -3.6008565425872803
+      ]
+    ]
+  },
+  {
+    "index": 10,
+    "tokens": [
+      "[CLS]",
+      "the",
+      "me",
+      "##sm",
+      "##eri",
+      "##zing",
+      "performances",
+      "of",
+      "the",
+      "leads",
+      "keep",
+      "the",
+      "film",
+      "grounded",
+      "and",
+      "keep",
+      "the",
+      "audience",
+      "r",
+      "##ive",
+      "##ted",
+      ".",
+      "[SEP]"
+    ],
+    "pred": "1",
+    "golden": "1",
+    "pred_logits": [
+      [
+        -4.158451557159424,
+        4.769676208496094
+      ]
+    ]
+  },
+  {
+    "index": 11,
+    "tokens": [
+      "[CLS]",
+      "it",
+      "takes",
+      "a",
+      "strange",
+      "kind",
+      "of",
+      "la",
+      "##zine",
+      "##ss",
+      "to",
+      "waste",
+      "the",
+      "talents",
+      "of",
+      "robe",
+      "##rt",
+      "for",
+      "##ster",
+      ",",
+      "an",
+      "##ne",
+      "me",
+      "##ara",
+      ",",
+      "e",
+      "##ugen",
+      "##e",
+      "le",
+      "##vy",
+      ",",
+      "and",
+      "re",
+      "##gin",
+      "##ald",
+      "ve",
+      "##l",
+      "##jo",
+      "##hn",
+      "##son",
+      "all",
+      "in",
+      "the",
+      "same",
+      "movie",
+      ".",
+      "[SEP]"
+    ],
+    "pred": "0",
+    "golden": "0",
+    "pred_logits": [
+      [
+        4.50015115737915,
+        -4.462389945983887
+      ]
+    ]
+  },
+  {
+    "index": 12,
+    "tokens": [
+      "[CLS]",
+      ".",
+      ".",
+      ".",
+      "the",
+      "film",
+      "suffers",
+      "from",
+      "a",
+      "lack",
+      "of",
+      "humor",
+      "(",
+      "something",
+      "needed",
+      "to",
+      "balance",
+      "out",
+      "the",
+      "violence",
+      ")",
+      ".",
+      ".",
+      ".",
+      "[SEP]"
+    ],
+    "pred": "0",
+    "golden": "0",
+    "pred_logits": [
+      [
+        4.358351707458496,
+        -4.474654197692871
+      ]
+    ]
+  },
+  {
+    "index": 13,
+    "tokens": [
+      "[CLS]",
+      "we",
+      "root",
+      "for",
+      "(",
+      "c",
+      "##lar",
+      "##a",
+      "and",
+      "p",
+      "##aul",
+      ")",
+      ",",
+      "even",
+      "like",
+      "them",
+      ",",
+      "though",
+      "perhaps",
+      "it",
+      "'",
+      "s",
+      "an",
+      "emotion",
+      "closer",
+      "to",
+      "pity",
+      ".",
+      "[SEP]"
+    ],
+    "pred": "1",
+    "golden": "1",
+    "pred_logits": [
+      [
+        -0.30009162425994873,
+        -0.1902843564748764
+      ]
+    ]
+  },
+  {
+    "index": 14,
+    "tokens": [
+      "[CLS]",
+      "even",
+      "horror",
+      "fans",
+      "will",
+      "most",
+      "likely",
+      "not",
+      "find",
+      "what",
+      "they",
+      "'",
+      "re",
+      "seeking",
+      "with",
+      "trouble",
+      "every",
+      "day",
+      ";",
+      "the",
+      "movie",
+      "lacks",
+      "both",
+      "thrill",
+      "##s",
+      "and",
+      "humor",
+      ".",
+      "[SEP]"
+    ],
+    "pred": "0",
+    "golden": "0",
+    "pred_logits": [
+      [
+        4.283842086791992,
+        -4.552629470825195
+      ]
+    ]
+  },
+  {
+    "index": 15,
+    "tokens": [
+      "[CLS]",
+      "a",
+      "gorgeous",
+      ",",
+      "high",
+      "-",
+      "spirit",
+      "##ed",
+      "musical",
+      "from",
+      "in",
+      "##dia",
+      "that",
+      "exquisite",
+      "##ly",
+      "blend",
+      "##s",
+      "music",
+      ",",
+      "dance",
+      ",",
+      "song",
+      ",",
+      "and",
+      "high",
+      "drama",
+      ".",
+      "[SEP]"
+    ],
+    "pred": "1",
+    "golden": "1",
+    "pred_logits": [
+      [
+        -3.935157060623169,
+        4.446715831756592
+      ]
+    ]
+  },
+  {
+    "index": 16,
+    "tokens": [
+      "[CLS]",
+      "the",
+      "emotions",
+      "are",
+      "raw",
+      "and",
+      "will",
+      "strongly",
+      "strike",
+      "a",
+      "nerve",
+      "with",
+      "anyone",
+      "who",
+      "'",
+      "s",
+      "ever",
+      "had",
+      "family",
+      "trauma",
+      ".",
+      "[SEP]"
+    ],
+    "pred": "1",
+    "golden": "1",
+    "pred_logits": [
+      [
+        -4.186086177825928,
+        4.7650346755981445
+      ]
+    ]
+  },
+  {
+    "index": 17,
+    "tokens": [
+      "[CLS]",
+      "au",
+      "##dre",
+      "##y",
+      "ta",
+      "##to",
+      "##u",
+      "has",
+      "a",
+      "kn",
+      "##ack",
+      "for",
+      "picking",
+      "roles",
+      "that",
+      "ma",
+      "##gni",
+      "##fy",
+      "her",
+      "outrage",
+      "##ous",
+      "charm",
+      ",",
+      "and",
+      "in",
+      "this",
+      "liter",
+      "##ate",
+      "f",
+      "##rench",
+      "comedy",
+      ",",
+      "she",
+      "'",
+      "s",
+      "as",
+      "morning",
+      "-",
+      "glory",
+      "ex",
+      "##ube",
+      "##rant",
+      "as",
+      "she",
+      "was",
+      "in",
+      "am",
+      "##\u00e9",
+      "##lie",
+      ".",
+      "[SEP]"
+    ],
+    "pred": "1",
+    "golden": "1",
+    "pred_logits": [
+      [
+        -4.194640636444092,
+        4.814352989196777
+      ]
+    ]
+  },
+  {
+    "index": 18,
+    "tokens": [
+      "[CLS]",
+      ".",
+      ".",
+      ".",
+      "the",
+      "movie",
+      "is",
+      "just",
+      "a",
+      "plain",
+      "old",
+      "monster",
+      ".",
+      "[SEP]"
+    ],
+    "pred": "0",
+    "golden": "0",
+    "pred_logits": [
+      [
+        4.24293851852417,
+        -4.458785057067871
+      ]
+    ]
+  },
+  {
+    "index": 19,
+    "tokens": [
+      "[CLS]",
+      "in",
+      "its",
+      "best",
+      "moments",
+      ",",
+      "resembles",
+      "a",
+      "bad",
+      "high",
+      "school",
+      "production",
+      "of",
+      "g",
+      "##rease",
+      ",",
+      "without",
+      "benefit",
+      "of",
+      "song",
+      ".",
+      "[SEP]"
+    ],
+    "pred": "0",
+    "golden": "0",
+    "pred_logits": [
+      [
+        3.5375542640686035,
+        -3.438419818878174
+      ]
+    ]
+  },
+  {
+    "index": 20,
+    "tokens": [
+      "[CLS]",
+      "pump",
+      "##kin",
+      "takes",
+      "an",
+      "ad",
+      "##mir",
+      "##able",
+      "look",
+      "at",
+      "the",
+      "h",
+      "##y",
+      "##po",
+      "##c",
+      "##ris",
+      "##y",
+      "of",
+      "political",
+      "correct",
+      "##ness",
+      ",",
+      "but",
+      "it",
+      "does",
+      "so",
+      "with",
+      "such",
+      "an",
+      "uneven",
+      "tone",
+      "that",
+      "you",
+      "never",
+      "know",
+      "when",
+      "humor",
+      "ends",
+      "and",
+      "tragedy",
+      "begins",
+      ".",
+      "[SEP]"
+    ],
+    "pred": "0",
+    "golden": "0",
+    "pred_logits": [
+      [
+        1.0655746459960938,
+        -1.6847636699676514
+      ]
+    ]
+  },
+  {
+    "index": 21,
+    "tokens": [
+      "[CLS]",
+      "the",
+      "id",
+      "##ita",
+      "##rod",
+      "lasts",
+      "for",
+      "days",
+      "-",
+      "this",
+      "just",
+      "felt",
+      "like",
+      "it",
+      "did",
+      ".",
+      "[SEP]"
+    ],
+    "pred": "0",
+    "golden": "0",
+    "pred_logits": [
+      [
+        1.7614977359771729,
+        -1.9456679821014404
+      ]
+    ]
+  },
+  {
+    "index": 22,
+    "tokens": [
+      "[CLS]",
+      "hold",
+      "##en",
+      "ca",
+      "##ulf",
+      "##ield",
+      "did",
+      "it",
+      "better",
+      ".",
+      "[SEP]"
+    ],
+    "pred": "1",
+    "golden": "0",
+    "pred_logits": [
+      [
+        -2.6335368156433105,
+        3.050170421600342
+      ]
+    ]
+  },
+  {
+    "index": 23,
+    "tokens": [
+      "[CLS]",
+      "a",
+      "del",
+      "##ec",
+      "##table",
+      "and",
+      "intriguing",
+      "thriller",
+      "filled",
+      "with",
+      "surprises",
+      ",",
+      "read",
+      "my",
+      "lips",
+      "is",
+      "an",
+      "original",
+      ".",
+      "[SEP]"
+    ],
+    "pred": "1",
+    "golden": "1",
+    "pred_logits": [
+      [
+        -3.9451961517333984,
+        4.552880764007568
+      ]
+    ]
+  },
+  {
+    "index": 24,
+    "tokens": [
+      "[CLS]",
+      "seldom",
+      "has",
+      "a",
+      "movie",
+      "so",
+      "closely",
+      "matched",
+      "the",
+      "spirit",
+      "of",
+      "a",
+      "man",
+      "and",
+      "his",
+      "work",
+      ".",
+      "[SEP]"
+    ],
+    "pred": "1",
+    "golden": "1",
+    "pred_logits": [
+      [
+        -3.7005205154418945,
+        4.208318710327148
+      ]
+    ]
+  },
+  {
+    "index": 25,
+    "tokens": [
+      "[CLS]",
+      "ni",
+      "##cks",
+      ",",
+      "seemingly",
+      "uncertain",
+      "what",
+      "'",
+      "s",
+      "going",
+      "to",
+      "make",
+      "people",
+      "laugh",
+      ",",
+      "runs",
+      "the",
+      "g",
+      "##am",
+      "##ut",
+      "from",
+      "s",
+      "##tale",
+      "parody",
+      "to",
+      "r",
+      "##au",
+      "##nch",
+      "##y",
+      "sex",
+      "gag",
+      "##s",
+      "to",
+      "formula",
+      "romantic",
+      "comedy",
+      ".",
+      "[SEP]"
+    ],
+    "pred": "0",
+    "golden": "0",
+    "pred_logits": [
+      [
+        3.990797519683838,
+        -3.8489956855773926
+      ]
+    ]
+  },
+  {
+    "index": 26,
+    "tokens": [
+      "[CLS]",
+      "the",
+      "action",
+      "switches",
+      "between",
+      "past",
+      "and",
+      "present",
+      ",",
+      "but",
+      "the",
+      "material",
+      "link",
+      "is",
+      "too",
+      "ten",
+      "##uous",
+      "to",
+      "anchor",
+      "the",
+      "emotional",
+      "connections",
+      "that",
+      "pu",
+      "##rp",
+      "##ort",
+      "to",
+      "span",
+      "a",
+      "125",
+      "-",
+      "year",
+      "divide",
+      ".",
+      "[SEP]"
+    ],
+    "pred": "0",
+    "golden": "0",
+    "pred_logits": [
+      [
+        1.769149661064148,
+        -2.481466770172119
+      ]
+    ]
+  },
+  {
+    "index": 27,
+    "tokens": [
+      "[CLS]",
+      "it",
+      "'",
+      "s",
+      "an",
+      "off",
+      "##beat",
+      "treat",
+      "that",
+      "p",
+      "##oke",
+      "##s",
+      "fun",
+      "at",
+      "the",
+      "democratic",
+      "exercise",
+      "while",
+      "also",
+      "examining",
+      "its",
+      "significance",
+      "for",
+      "those",
+      "who",
+      "take",
+      "part",
+      ".",
+      "[SEP]"
+    ],
+    "pred": "1",
+    "golden": "1",
+    "pred_logits": [
+      [
+        -4.328670501708984,
+        4.783769607543945
+      ]
+    ]
+  },
+  {
+    "index": 28,
+    "tokens": [
+      "[CLS]",
+      "it",
+      "'",
+      "s",
+      "a",
+      "cookie",
+      "-",
+      "cutter",
+      "movie",
+      ",",
+      "a",
+      "cut",
+      "-",
+      "and",
+      "-",
+      "paste",
+      "job",
+      ".",
+      "[SEP]"
+    ],
+    "pred": "0",
+    "golden": "0",
+    "pred_logits": [
+      [
+        2.879868507385254,
+        -3.131408214569092
+      ]
+    ]
+  },
+  {
+    "index": 29,
+    "tokens": [
+      "[CLS]",
+      "i",
+      "had",
+      "to",
+      "look",
+      "away",
+      "-",
+      "this",
+      "was",
+      "god",
+      "awful",
+      ".",
+      "[SEP]"
+    ],
+    "pred": "0",
+    "golden": "0",
+    "pred_logits": [
+      [
+        2.6334388256073,
+        -2.966865062713623
+      ]
+    ]
+  },
+  {
+    "index": 30,
+    "tokens": [
+      "[CLS]",
+      "thanks",
+      "to",
+      "s",
+      "##cott",
+      "'",
+      "s",
+      "ch",
+      "##aris",
+      "##matic",
+      "r",
+      "##og",
+      "##er",
+      "and",
+      "e",
+      "##ise",
+      "##nberg",
+      "'",
+      "s",
+      "sweet",
+      "nephew",
+      ",",
+      "r",
+      "##og",
+      "##er",
+      "do",
+      "##dge",
+      "##r",
+      "is",
+      "one",
+      "of",
+      "the",
+      "most",
+      "compelling",
+      "variations",
+      "on",
+      "in",
+      "the",
+      "company",
+      "of",
+      "men",
+      ".",
+      "[SEP]"
+    ],
+    "pred": "1",
+    "golden": "1",
+    "pred_logits": [
+      [
+        -3.9173221588134766,
+        4.602614402770996
+      ]
+    ]
+  },
+  {
+    "index": 31,
+    "tokens": [
+      "[CLS]",
+      ".",
+      ".",
+      ".",
+      "designed",
+      "to",
+      "provide",
+      "a",
+      "mix",
+      "of",
+      "smiles",
+      "and",
+      "tears",
+      ",",
+      "`",
+      "`",
+      "cross",
+      "##roads",
+      "'",
+      "'",
+      "instead",
+      "pro",
+      "##voke",
+      "##s",
+      "a",
+      "handful",
+      "of",
+      "un",
+      "##int",
+      "##ent",
+      "##ional",
+      "how",
+      "##lers",
+      "and",
+      "numerous",
+      "ya",
+      "##wn",
+      "##s",
+      ".",
+      "[SEP]"
+    ],
+    "pred": "0",
+    "golden": "0",
+    "pred_logits": [
+      [
+        3.508943557739258,
+        -3.228804111480713
+      ]
+    ]
+  },
+  {
+    "index": 32,
+    "tokens": [
+      "[CLS]",
+      "a",
+      "gorgeous",
+      ",",
+      "wit",
+      "##ty",
+      ",",
+      "seductive",
+      "movie",
+      ".",
+      "[SEP]"
+    ],
+    "pred": "1",
+    "golden": "1",
+    "pred_logits": [
+      [
+        -4.13372802734375,
+        4.630865573883057
+      ]
+    ]
+  },
+  {
+    "index": 33,
+    "tokens": [
+      "[CLS]",
+      "if",
+      "the",
+      "movie",
+      "succeeds",
+      "in",
+      "ins",
+      "##til",
+      "##ling",
+      "a",
+      "wary",
+      "sense",
+      "of",
+      "`",
+      "there",
+      "but",
+      "for",
+      "the",
+      "grace",
+      "of",
+      "god",
+      ",",
+      "'",
+      "it",
+      "is",
+      "far",
+      "too",
+      "self",
+      "-",
+      "conscious",
+      "to",
+      "draw",
+      "you",
+      "deeply",
+      "into",
+      "its",
+      "world",
+      ".",
+      "[SEP]"
+    ],
+    "pred": "0",
+    "golden": "0",
+    "pred_logits": [
+      [
+        3.322078227996826,
+        -3.6345512866973877
+      ]
+    ]
+  },
+  {
+    "index": 34,
+    "tokens": [
+      "[CLS]",
+      "it",
+      "does",
+      "n",
+      "'",
+      "t",
+      "believe",
+      "in",
+      "itself",
+      ",",
+      "it",
+      "has",
+      "no",
+      "sense",
+      "of",
+      "humor",
+      ".",
+      ".",
+      ".",
+      "it",
+      "'",
+      "s",
+      "just",
+      "plain",
+      "bored",
+      ".",
+      "[SEP]"
+    ],
+    "pred": "0",
+    "golden": "0",
+    "pred_logits": [
+      [
+        4.416007995605469,
+        -4.540209770202637
+      ]
+    ]
+  },
+  {
+    "index": 35,
+    "tokens": [
+      "[CLS]",
+      "a",
+      "sequence",
+      "of",
+      "ridiculous",
+      "shoot",
+      "-",
+      "'",
+      "em",
+      "-",
+      "up",
+      "scenes",
+      ".",
+      "[SEP]"
+    ],
+    "pred": "0",
+    "golden": "0",
+    "pred_logits": [
+      [
+        4.485072612762451,
+        -4.502069473266602
+      ]
+    ]
+  },
+  {
+    "index": 36,
+    "tokens": [
+      "[CLS]",
+      "the",
+      "weight",
+      "of",
+      "the",
+      "piece",
+      ",",
+      "the",
+      "une",
+      "##rring",
+      "professional",
+      "##ism",
+      "of",
+      "the",
+      "chill",
+      "##y",
+      "production",
+      ",",
+      "and",
+      "the",
+      "fascination",
+      "embedded",
+      "in",
+      "the",
+      "l",
+      "##uri",
+      "##d",
+      "topic",
+      "prove",
+      "recommendation",
+      "enough",
+      ".",
+      "[SEP]"
+    ],
+    "pred": "1",
+    "golden": "1",
+    "pred_logits": [
+      [
+        -4.160940647125244,
+        4.78033971786499
+      ]
+    ]
+  },
+  {
+    "index": 37,
+    "tokens": [
+      "[CLS]",
+      "(",
+      "w",
+      ")",
+      "hi",
+      "##le",
+      "long",
+      "on",
+      "am",
+      "##iable",
+      "monkeys",
+      "and",
+      "worthy",
+      "environmental",
+      "##ism",
+      ",",
+      "j",
+      "##ane",
+      "good",
+      "##all",
+      "'",
+      "s",
+      "wild",
+      "ch",
+      "##im",
+      "##pan",
+      "##zee",
+      "##s",
+      "is",
+      "short",
+      "on",
+      "the",
+      "thrill",
+      "##s",
+      "the",
+      "overs",
+      "##ize",
+      "medium",
+      "demands",
+      ".",
+      "[SEP]"
+    ],
+    "pred": "0",
+    "golden": "0",
+    "pred_logits": [
+      [
+        0.9322391152381897,
+        -1.715411901473999
+      ]
+    ]
+  },
+  {
+    "index": 38,
+    "tokens": [
+      "[CLS]",
+      "as",
+      "surreal",
+      "as",
+      "a",
+      "dream",
+      "and",
+      "as",
+      "detailed",
+      "as",
+      "a",
+      "photograph",
+      ",",
+      "as",
+      "visually",
+      "de",
+      "##x",
+      "##tero",
+      "##us",
+      "as",
+      "it",
+      "is",
+      "at",
+      "times",
+      "im",
+      "##agi",
+      "##nat",
+      "##ively",
+      "overwhelming",
+      ".",
+      "[SEP]"
+    ],
+    "pred": "1",
+    "golden": "1",
+    "pred_logits": [
+      [
+        -1.296776533126831,
+        1.1465389728546143
+      ]
+    ]
+  },
+  {
+    "index": 39,
+    "tokens": [
+      "[CLS]",
+      "escaping",
+      "the",
+      "studio",
+      ",",
+      "p",
+      "##ic",
+      "##co",
+      "##li",
+      "is",
+      "warmly",
+      "affecting",
+      "and",
+      "so",
+      "is",
+      "this",
+      "ad",
+      "##roi",
+      "##tly",
+      "minimal",
+      "##ist",
+      "movie",
+      ".",
+      "[SEP]"
+    ],
+    "pred": "1",
+    "golden": "1",
+    "pred_logits": [
+      [
+        -3.072944164276123,
+        3.280081033706665
+      ]
+    ]
+  },
+  {
+    "index": 40,
+    "tokens": [
+      "[CLS]",
+      "there",
+      "'",
+      "s",
+      ".",
+      ".",
+      ".",
+      "tremendous",
+      "energy",
+      "from",
+      "the",
+      "cast",
+      ",",
+      "a",
+      "sense",
+      "of",
+      "playful",
+      "##ness",
+      "and",
+      "excitement",
+      "that",
+      "seems",
+      "appropriate",
+      ".",
+      "[SEP]"
+    ],
+    "pred": "1",
+    "golden": "1",
+    "pred_logits": [
+      [
+        -4.032762050628662,
+        4.680756568908691
+      ]
+    ]
+  },
+  {
+    "index": 41,
+    "tokens": [
+      "[CLS]",
+      "this",
+      "ill",
+      "##umi",
+      "##nating",
+      "documentary",
+      "trans",
+      "##cend",
+      "##s",
+      "our",
+      "pre",
+      "##con",
+      "##ceived",
+      "vision",
+      "of",
+      "the",
+      "holy",
+      "land",
+      "and",
+      "its",
+      "inhabitants",
+      ",",
+      "revealing",
+      "the",
+      "human",
+      "complex",
+      "##ities",
+      "beneath",
+      ".",
+      "[SEP]"
+    ],
+    "pred": "1",
+    "golden": "1",
+    "pred_logits": [
+      [
+        -4.375480651855469,
+        4.856093406677246
+      ]
+    ]
+  },
+  {
+    "index": 42,
+    "tokens": [
+      "[CLS]",
+      "the",
+      "subtle",
+      "strength",
+      "of",
+      "`",
+      "`",
+      "el",
+      "##ling",
+      "'",
+      "'",
+      "is",
+      "that",
+      "it",
+      "never",
+      "loses",
+      "touch",
+      "with",
+      "the",
+      "reality",
+      "of",
+      "the",
+      "grim",
+      "situation",
+      ".",
+      "[SEP]"
+    ],
+    "pred": "1",
+    "golden": "1",
+    "pred_logits": [
+      [
+        -4.192053318023682,
+        4.8512115478515625
+      ]
+    ]
+  },
+  {
+    "index": 43,
+    "tokens": [
+      "[CLS]",
+      "ho",
+      "##lm",
+      ".",
+      ".",
+      ".",
+      "em",
+      "##bo",
+      "##dies",
+      "the",
+      "character",
+      "with",
+      "an",
+      "effort",
+      "##lessly",
+      "re",
+      "##gal",
+      "ch",
+      "##aris",
+      "##ma",
+      ".",
+      "[SEP]"
+    ],
+    "pred": "1",
+    "golden": "1",
+    "pred_logits": [
+      [
+        -4.296854019165039,
+        4.8000664710998535
+      ]
+    ]
+  },
+  {
+    "index": 44,
+    "tokens": [
+      "[CLS]",
+      "the",
+      "title",
+      "not",
+      "only",
+      "describes",
+      "its",
+      "main",
+      "characters",
+      ",",
+      "but",
+      "the",
+      "lazy",
+      "people",
+      "behind",
+      "the",
+      "camera",
+      "as",
+      "well",
+      ".",
+      "[SEP]"
+    ],
+    "pred": "0",
+    "golden": "0",
+    "pred_logits": [
+      [
+        0.8258737921714783,
+        -1.1752359867095947
+      ]
+    ]
+  },
+  {
+    "index": 45,
+    "tokens": [
+      "[CLS]",
+      "it",
+      "offers",
+      "little",
+      "beyond",
+      "the",
+      "moment",
+      "##ary",
+      "joy",
+      "##s",
+      "of",
+      "pretty",
+      "and",
+      "weight",
+      "##less",
+      "intellectual",
+      "entertainment",
+      ".",
+      "[SEP]"
+    ],
+    "pred": "0",
+    "golden": "0",
+    "pred_logits": [
+      [
+        0.9606285095214844,
+        -1.594200611114502
+      ]
+    ]
+  },
+  {
+    "index": 46,
+    "tokens": [
+      "[CLS]",
+      "a",
+      "synthesis",
+      "of",
+      "c",
+      "##liche",
+      "##s",
+      "and",
+      "absurd",
+      "##ities",
+      "that",
+      "seems",
+      "positively",
+      "decade",
+      "##nt",
+      "in",
+      "its",
+      "cinema",
+      "##tic",
+      "flash",
+      "and",
+      "emptiness",
+      ".",
+      "[SEP]"
+    ],
+    "pred": "0",
+    "golden": "0",
+    "pred_logits": [
+      [
+        2.0910496711730957,
+        -2.5090723037719727
+      ]
+    ]
+  },
+  {
+    "index": 47,
+    "tokens": [
+      "[CLS]",
+      "a",
+      "subtle",
+      "and",
+      "well",
+      "-",
+      "crafted",
+      "(",
+      "for",
+      "the",
+      "most",
+      "part",
+      ")",
+      "chill",
+      "##er",
+      ".",
+      "[SEP]"
+    ],
+    "pred": "1",
+    "golden": "1",
+    "pred_logits": [
+      [
+        -3.9926905632019043,
+        4.707239151000977
+      ]
+    ]
+  },
+  {
+    "index": 48,
+    "tokens": [
+      "[CLS]",
+      "has",
+      "a",
+      "lot",
+      "of",
+      "the",
+      "virtues",
+      "of",
+      "east",
+      "##wood",
+      "at",
+      "his",
+      "best",
+      ".",
+      "[SEP]"
+    ],
+    "pred": "1",
+    "golden": "1",
+    "pred_logits": [
+      [
+        -4.0779547691345215,
+        4.825387477874756
+      ]
+    ]
+  },
+  {
+    "index": 49,
+    "tokens": [
+      "[CLS]",
+      "it",
+      "'",
+      "s",
+      "hampered",
+      "by",
+      "a",
+      "lifetime",
+      "-",
+      "channel",
+      "kind",
+      "of",
+      "plot",
+      "and",
+      "a",
+      "lead",
+      "actress",
+      "who",
+      "is",
+      "out",
+      "of",
+      "her",
+      "depth",
+      ".",
+      "[SEP]"
+    ],
+    "pred": "0",
+    "golden": "0",
+    "pred_logits": [
+      [
+        2.906313180923462,
+        -3.452134132385254
+      ]
+    ]
+  },
+  {
+    "index": 50,
+    "tokens": [
+      "[CLS]",
+      "it",
+      "feels",
+      "like",
+      "an",
+      "after",
+      "-",
+      "school",
+      "special",
+      "g",
+      "##uss",
+      "##ied",
+      "up",
+      "with",
+      "some",
+      "fancy",
+      "special",
+      "effects",
+      ",",
+      "and",
+      "watching",
+      "its",
+      "rot",
+      "##e",
+      "plot",
+      "points",
+      "connect",
+      "is",
+      "about",
+      "as",
+      "exciting",
+      "as",
+      "gazing",
+      "at",
+      "an",
+      "egg",
+      "time",
+      "##r",
+      "for",
+      "93",
+      "minutes",
+      ".",
+      "[SEP]"
+    ],
+    "pred": "0",
+    "golden": "0",
+    "pred_logits": [
+      [
+        3.734337329864502,
+        -3.8914599418640137
+      ]
+    ]
+  },
+  {
+    "index": 51,
+    "tokens": [
+      "[CLS]",
+      "for",
+      "the",
+      "most",
+      "part",
+      ",",
+      "director",
+      "an",
+      "##ne",
+      "-",
+      "so",
+      "##phi",
+      "##e",
+      "bi",
+      "##rot",
+      "'",
+      "s",
+      "first",
+      "feature",
+      "is",
+      "a",
+      "sensitive",
+      ",",
+      "extra",
+      "##ord",
+      "##ina",
+      "##rily",
+      "well",
+      "-",
+      "acted",
+      "drama",
+      ".",
+      "[SEP]"
+    ],
+    "pred": "1",
+    "golden": "1",
+    "pred_logits": [
+      [
+        -4.097412586212158,
+        4.748108863830566
+      ]
+    ]
+  },
+  {
+    "index": 52,
+    "tokens": [
+      "[CLS]",
+      "m",
+      "##r",
+      ".",
+      "t",
+      "##sai",
+      "is",
+      "a",
+      "very",
+      "original",
+      "artist",
+      "in",
+      "his",
+      "medium",
+      ",",
+      "and",
+      "what",
+      "time",
+      "is",
+      "it",
+      "there",
+      "?",
+      "[SEP]"
+    ],
+    "pred": "1",
+    "golden": "1",
+    "pred_logits": [
+      [
+        -3.783064365386963,
+        4.502927780151367
+      ]
+    ]
+  },
+  {
+    "index": 53,
+    "tokens": [
+      "[CLS]",
+      "sad",
+      "##e",
+      "is",
+      "an",
+      "engaging",
+      "look",
+      "at",
+      "the",
+      "controversial",
+      "eponymous",
+      "and",
+      "fiercely",
+      "at",
+      "##heist",
+      "##ic",
+      "hero",
+      ".",
+      "[SEP]"
+    ],
+    "pred": "1",
+    "golden": "1",
+    "pred_logits": [
+      [
+        -4.406691074371338,
+        4.802417278289795
+      ]
+    ]
+  },
+  {
+    "index": 54,
+    "tokens": [
+      "[CLS]",
+      "so",
+      "devoid",
+      "of",
+      "any",
+      "kind",
+      "of",
+      "in",
+      "##tel",
+      "##li",
+      "##gible",
+      "story",
+      "that",
+      "it",
+      "makes",
+      "films",
+      "like",
+      "x",
+      "##x",
+      "##x",
+      "and",
+      "co",
+      "##lla",
+      "##teral",
+      "damage",
+      "seem",
+      "like",
+      "thoughtful",
+      "treatise",
+      "##s",
+      "[SEP]"
+    ],
+    "pred": "0",
+    "golden": "0",
+    "pred_logits": [
+      [
+        4.436729431152344,
+        -4.339037895202637
+      ]
+    ]
+  },
+  {
+    "index": 55,
+    "tokens": [
+      "[CLS]",
+      "a",
+      "tender",
+      ",",
+      "heart",
+      "##fe",
+      "##lt",
+      "family",
+      "drama",
+      ".",
+      "[SEP]"
+    ],
+    "pred": "1",
+    "golden": "1",
+    "pred_logits": [
+      [
+        -3.981750011444092,
+        4.529664993286133
+      ]
+    ]
+  },
+  {
+    "index": 56,
+    "tokens": [
+      "[CLS]",
+      ".",
+      ".",
+      ".",
+      "a",
+      "hollow",
+      "joke",
+      "told",
+      "by",
+      "a",
+      "cinema",
+      "##tic",
+      "gym",
+      "##nast",
+      "having",
+      "too",
+      "much",
+      "fun",
+      "em",
+      "##bell",
+      "##ishing",
+      "the",
+      "mi",
+      "##san",
+      "##throp",
+      "##ic",
+      "tale",
+      "to",
+      "actually",
+      "engage",
+      "it",
+      ".",
+      "[SEP]"
+    ],
+    "pred": "0",
+    "golden": "0",
+    "pred_logits": [
+      [
+        4.397284507751465,
+        -4.561291217803955
+      ]
+    ]
+  },
+  {
+    "index": 57,
+    "tokens": [
+      "[CLS]",
+      "the",
+      "cold",
+      "turkey",
+      "would",
+      "'",
+      "ve",
+      "been",
+      "a",
+      "far",
+      "better",
+      "title",
+      ".",
+      "[SEP]"
+    ],
+    "pred": "0",
+    "golden": "0",
+    "pred_logits": [
+      [
+        2.855484962463379,
+        -3.5986995697021484
+      ]
+    ]
+  },
+  {
+    "index": 58,
+    "tokens": [
+      "[CLS]",
+      "manages",
+      "to",
+      "be",
+      "both",
+      "re",
+      "##pu",
+      "##lsive",
+      "##ly",
+      "sad",
+      "##istic",
+      "and",
+      "m",
+      "##unda",
+      "##ne",
+      ".",
+      "[SEP]"
+    ],
+    "pred": "0",
+    "golden": "0",
+    "pred_logits": [
+      [
+        2.0379130840301514,
+        -2.303133010864258
+      ]
+    ]
+  },
+  {
+    "index": 59,
+    "tokens": [
+      "[CLS]",
+      "it",
+      "'",
+      "s",
+      "just",
+      "disappointing",
+      "##ly",
+      "superficial",
+      "-",
+      "-",
+      "a",
+      "movie",
+      "that",
+      "has",
+      "all",
+      "the",
+      "elements",
+      "necessary",
+      "to",
+      "be",
+      "a",
+      "fascinating",
+      ",",
+      "involving",
+      "character",
+      "study",
+      ",",
+      "but",
+      "never",
+      "does",
+      "more",
+      "than",
+      "scratch",
+      "the",
+      "surface",
+      ".",
+      "[SEP]"
+    ],
+    "pred": "0",
+    "golden": "0",
+    "pred_logits": [
+      [
+        2.45851469039917,
+        -2.809474468231201
+      ]
+    ]
+  },
+  {
+    "index": 60,
+    "tokens": [
+      "[CLS]",
+      "this",
+      "is",
+      "a",
+      "story",
+      "of",
+      "two",
+      "mi",
+      "##s",
+      "##fit",
+      "##s",
+      "who",
+      "do",
+      "n",
+      "'",
+      "t",
+      "stand",
+      "a",
+      "chance",
+      "alone",
+      ",",
+      "but",
+      "together",
+      "they",
+      "are",
+      "magnificent",
+      ".",
+      "[SEP]"
+    ],
+    "pred": "1",
+    "golden": "1",
+    "pred_logits": [
+      [
+        -4.200445652008057,
+        4.859638214111328
+      ]
+    ]
+  },
+  {
+    "index": 61,
+    "tokens": [
+      "[CLS]",
+      "s",
+      "##cha",
+      "##ef",
+      "##fer",
+      "has",
+      "to",
+      "find",
+      "some",
+      "hook",
+      "on",
+      "which",
+      "to",
+      "hang",
+      "his",
+      "persistent",
+      "##ly",
+      "useless",
+      "movies",
+      ",",
+      "and",
+      "it",
+      "might",
+      "as",
+      "well",
+      "be",
+      "the",
+      "re",
+      "##sus",
+      "##citation",
+      "of",
+      "the",
+      "middle",
+      "-",
+      "aged",
+      "character",
+      ".",
+      "[SEP]"
+    ],
+    "pred": "0",
+    "golden": "0",
+    "pred_logits": [
+      [
+        4.315464496612549,
+        -4.716949462890625
+      ]
+    ]
+  },
+  {
+    "index": 62,
+    "tokens": [
+      "[CLS]",
+      "the",
+      "primitive",
+      "force",
+      "of",
+      "this",
+      "film",
+      "seems",
+      "to",
+      "bubble",
+      "up",
+      "from",
+      "the",
+      "vast",
+      "collective",
+      "memory",
+      "of",
+      "the",
+      "combat",
+      "##ants",
+      ".",
+      "[SEP]"
+    ],
+    "pred": "1",
+    "golden": "1",
+    "pred_logits": [
+      [
+        -2.054572820663452,
+        2.507481575012207
+      ]
+    ]
+  },
+  {
+    "index": 63,
+    "tokens": [
+      "[CLS]",
+      "on",
+      "this",
+      "trick",
+      "##y",
+      "topic",
+      ",",
+      "ta",
+      "##d",
+      "##pole",
+      "is",
+      "very",
+      "much",
+      "a",
+      "step",
+      "in",
+      "the",
+      "right",
+      "direction",
+      ",",
+      "with",
+      "its",
+      "blend",
+      "of",
+      "f",
+      "##rank",
+      "##ness",
+      ",",
+      "civil",
+      "##ity",
+      "and",
+      "compassion",
+      ".",
+      "[SEP]"
+    ],
+    "pred": "1",
+    "golden": "1",
+    "pred_logits": [
+      [
+        -4.1870574951171875,
+        4.826291561126709
+      ]
+    ]
+  },
+  {
+    "index": 64,
+    "tokens": [
+      "[CLS]",
+      "the",
+      "script",
+      "kicks",
+      "in",
+      ",",
+      "and",
+      "m",
+      "##r",
+      ".",
+      "ha",
+      "##rt",
+      "##ley",
+      "'",
+      "s",
+      "di",
+      "##sten",
+      "##ded",
+      "pace",
+      "and",
+      "foot",
+      "-",
+      "dragging",
+      "rhythms",
+      "follow",
+      ".",
+      "[SEP]"
+    ],
+    "pred": "1",
+    "golden": "0",
+    "pred_logits": [
+      [
+        -0.1639779806137085,
+        0.071040078997612
+      ]
+    ]
+  },
+  {
+    "index": 65,
+    "tokens": [
+      "[CLS]",
+      "you",
+      "wonder",
+      "why",
+      "enough",
+      "was",
+      "n",
+      "'",
+      "t",
+      "just",
+      "a",
+      "music",
+      "video",
+      "rather",
+      "than",
+      "a",
+      "full",
+      "-",
+      "length",
+      "movie",
+      ".",
+      "[SEP]"
+    ],
+    "pred": "0",
+    "golden": "0",
+    "pred_logits": [
+      [
+        2.571624279022217,
+        -2.7731270790100098
+      ]
+    ]
+  },
+  {
+    "index": 66,
+    "tokens": [
+      "[CLS]",
+      "if",
+      "you",
+      "'",
+      "re",
+      "hard",
+      "up",
+      "for",
+      "r",
+      "##au",
+      "##nch",
+      "##y",
+      "college",
+      "humor",
+      ",",
+      "this",
+      "is",
+      "your",
+      "ticket",
+      "right",
+      "here",
+      ".",
+      "[SEP]"
+    ],
+    "pred": "0",
+    "golden": "1",
+    "pred_logits": [
+      [
+        0.7122730016708374,
+        -1.2671010494232178
+      ]
+    ]
+  },
+  {
+    "index": 67,
+    "tokens": [
+      "[CLS]",
+      "a",
+      "fast",
+      ",",
+      "funny",
+      ",",
+      "highly",
+      "enjoyable",
+      "movie",
+      ".",
+      "[SEP]"
+    ],
+    "pred": "1",
+    "golden": "1",
+    "pred_logits": [
+      [
+        -4.046513557434082,
+        4.627493858337402
+      ]
+    ]
+  },
+  {
+    "index": 68,
+    "tokens": [
+      "[CLS]",
+      "good",
+      "old",
+      "-",
+      "fashioned",
+      "slash",
+      "-",
+      "and",
+      "-",
+      "ha",
+      "##ck",
+      "is",
+      "back",
+      "!",
+      "[SEP]"
+    ],
+    "pred": "1",
+    "golden": "1",
+    "pred_logits": [
+      [
+        -3.7995223999023438,
+        4.279712677001953
+      ]
+    ]
+  },
+  {
+    "index": 69,
+    "tokens": [
+      "[CLS]",
+      "this",
+      "one",
+      "is",
+      "definitely",
+      "one",
+      "to",
+      "skip",
+      ",",
+      "even",
+      "for",
+      "horror",
+      "movie",
+      "fan",
+      "##atic",
+      "##s",
+      ".",
+      "[SEP]"
+    ],
+    "pred": "0",
+    "golden": "0",
+    "pred_logits": [
+      [
+        0.1374838650226593,
+        -0.9592803716659546
+      ]
+    ]
+  },
+  {
+    "index": 70,
+    "tokens": [
+      "[CLS]",
+      "for",
+      "all",
+      "its",
+      "impressive",
+      "crafts",
+      "##manship",
+      ",",
+      "and",
+      "despite",
+      "an",
+      "over",
+      "##be",
+      "##aring",
+      "series",
+      "of",
+      "third",
+      "-",
+      "act",
+      "c",
+      "##res",
+      "##cend",
+      "##os",
+      ",",
+      "l",
+      "##ily",
+      "ch",
+      "##ou",
+      "-",
+      "ch",
+      "##ou",
+      "never",
+      "really",
+      "builds",
+      "up",
+      "a",
+      "head",
+      "of",
+      "emotional",
+      "steam",
+      ".",
+      "[SEP]"
+    ],
+    "pred": "0",
+    "golden": "0",
+    "pred_logits": [
+      [
+        2.9352893829345703,
+        -3.3729686737060547
+      ]
+    ]
+  },
+  {
+    "index": 71,
+    "tokens": [
+      "[CLS]",
+      "exquisite",
+      "##ly",
+      "n",
+      "##uan",
+      "##ced",
+      "in",
+      "mood",
+      "t",
+      "##ics",
+      "and",
+      "dialogue",
+      ",",
+      "this",
+      "chamber",
+      "drama",
+      "is",
+      "superb",
+      "##ly",
+      "acted",
+      "by",
+      "the",
+      "deeply",
+      "appealing",
+      "veteran",
+      "b",
+      "##ou",
+      "##quet",
+      "and",
+      "the",
+      "chill",
+      "##ing",
+      "but",
+      "quite",
+      "human",
+      "be",
+      "##rlin",
+      "##g",
+      ".",
+      "[SEP]"
+    ],
+    "pred": "1",
+    "golden": "1",
+    "pred_logits": [
+      [
+        -3.9519200325012207,
+        4.596017837524414
+      ]
+    ]
+  },
+  {
+    "index": 72,
+    "tokens": [
+      "[CLS]",
+      "uses",
+      "high",
+      "comedy",
+      "to",
+      "e",
+      "##voke",
+      "surprising",
+      "p",
+      "##oi",
+      "##gna",
+      "##nce",
+      ".",
+      "[SEP]"
+    ],
+    "pred": "1",
+    "golden": "1",
+    "pred_logits": [
+      [
+        -4.118533134460449,
+        4.695838928222656
+      ]
+    ]
+  },
+  {
+    "index": 73,
+    "tokens": [
+      "[CLS]",
+      "one",
+      "of",
+      "creep",
+      "##iest",
+      ",",
+      "scar",
+      "##iest",
+      "movies",
+      "to",
+      "come",
+      "along",
+      "in",
+      "a",
+      "long",
+      ",",
+      "long",
+      "time",
+      ",",
+      "easily",
+      "rival",
+      "##ing",
+      "b",
+      "##lair",
+      "witch",
+      "or",
+      "the",
+      "others",
+      ".",
+      "[SEP]"
+    ],
+    "pred": "1",
+    "golden": "1",
+    "pred_logits": [
+      [
+        -4.04360294342041,
+        4.62062931060791
+      ]
+    ]
+  },
+  {
+    "index": 74,
+    "tokens": [
+      "[CLS]",
+      "a",
+      "string",
+      "of",
+      "re",
+      "##has",
+      "##hed",
+      "sight",
+      "gag",
+      "##s",
+      "based",
+      "in",
+      "ins",
+      "##ip",
+      "##id",
+      "v",
+      "##ul",
+      "##gar",
+      "##ity",
+      ".",
+      "[SEP]"
+    ],
+    "pred": "0",
+    "golden": "0",
+    "pred_logits": [
+      [
+        4.500506401062012,
+        -4.5700249671936035
+      ]
+    ]
+  },
+  {
+    "index": 75,
+    "tokens": [
+      "[CLS]",
+      "among",
+      "the",
+      "year",
+      "'",
+      "s",
+      "most",
+      "intriguing",
+      "exploration",
+      "##s",
+      "of",
+      "alien",
+      "##tation",
+      ".",
+      "[SEP]"
+    ],
+    "pred": "1",
+    "golden": "1",
+    "pred_logits": [
+      [
+        -4.074273586273193,
+        4.5759358406066895
+      ]
+    ]
+  },
+  {
+    "index": 76,
+    "tokens": [
+      "[CLS]",
+      "the",
+      "movie",
+      "fails",
+      "to",
+      "live",
+      "up",
+      "to",
+      "the",
+      "sum",
+      "of",
+      "its",
+      "parts",
+      ".",
+      "[SEP]"
+    ],
+    "pred": "0",
+    "golden": "0",
+    "pred_logits": [
+      [
+        4.255733966827393,
+        -4.45852518081665
+      ]
+    ]
+  },
+  {
+    "index": 77,
+    "tokens": [
+      "[CLS]",
+      "the",
+      "son",
+      "'",
+      "s",
+      "room",
+      "is",
+      "a",
+      "triumph",
+      "of",
+      "g",
+      "##ent",
+      "##ility",
+      "that",
+      "earn",
+      "##s",
+      "its",
+      "moments",
+      "of",
+      "path",
+      "##os",
+      ".",
+      "[SEP]"
+    ],
+    "pred": "1",
+    "golden": "1",
+    "pred_logits": [
+      [
+        -4.3145222663879395,
+        4.726315498352051
+      ]
+    ]
+  },
+  {
+    "index": 78,
+    "tokens": [
+      "[CLS]",
+      "there",
+      "is",
+      "nothing",
+      "outstanding",
+      "about",
+      "this",
+      "film",
+      ",",
+      "but",
+      "it",
+      "is",
+      "good",
+      "enough",
+      "and",
+      "will",
+      "likely",
+      "be",
+      "appreciated",
+      "most",
+      "by",
+      "sailors",
+      "and",
+      "folks",
+      "who",
+      "know",
+      "their",
+      "way",
+      "around",
+      "a",
+      "submarine",
+      ".",
+      "[SEP]"
+    ],
+    "pred": "1",
+    "golden": "1",
+    "pred_logits": [
+      [
+        -4.1148552894592285,
+        4.692907810211182
+      ]
+    ]
+  },
+  {
+    "index": 79,
+    "tokens": [
+      "[CLS]",
+      "this",
+      "is",
+      "a",
+      "train",
+      "wreck",
+      "of",
+      "an",
+      "action",
+      "film",
+      "-",
+      "-",
+      "a",
+      "s",
+      "##tu",
+      "##pe",
+      "##fying",
+      "attempt",
+      "by",
+      "the",
+      "filmmakers",
+      "to",
+      "force",
+      "-",
+      "feed",
+      "jam",
+      "##es",
+      "bond",
+      "into",
+      "the",
+      "mind",
+      "##less",
+      "x",
+      "##x",
+      "##x",
+      "mold",
+      "and",
+      "throw",
+      "40",
+      "years",
+      "of",
+      "cinema",
+      "##tic",
+      "history",
+      "down",
+      "the",
+      "toilet",
+      "in",
+      "favor",
+      "of",
+      "bright",
+      "flashes",
+      "and",
+      "loud",
+      "bang",
+      "##s",
+      ".",
+      "[SEP]"
+    ],
+    "pred": "0",
+    "golden": "0",
+    "pred_logits": [
+      [
+        3.033998966217041,
+        -2.8642382621765137
+      ]
+    ]
+  },
+  {
+    "index": 80,
+    "tokens": [
+      "[CLS]",
+      "the",
+      "draw",
+      "(",
+      "for",
+      "`",
+      "`",
+      "big",
+      "bad",
+      "love",
+      "'",
+      "'",
+      ")",
+      "is",
+      "a",
+      "solid",
+      "performance",
+      "by",
+      "a",
+      "##rl",
+      "##iss",
+      "how",
+      "##ard",
+      ".",
+      "[SEP]"
+    ],
+    "pred": "1",
+    "golden": "1",
+    "pred_logits": [
+      [
+        -4.0681867599487305,
+        4.775735855102539
+      ]
+    ]
+  },
+  {
+    "index": 81,
+    "tokens": [
+      "[CLS]",
+      "green",
+      "might",
+      "want",
+      "to",
+      "hang",
+      "onto",
+      "that",
+      "ski",
+      "mask",
+      ",",
+      "as",
+      "robbery",
+      "may",
+      "be",
+      "the",
+      "only",
+      "way",
+      "to",
+      "pay",
+      "for",
+      "his",
+      "next",
+      "project",
+      ".",
+      "[SEP]"
+    ],
+    "pred": "0",
+    "golden": "0",
+    "pred_logits": [
+      [
+        3.674159288406372,
+        -3.7919259071350098
+      ]
+    ]
+  },
+  {
+    "index": 82,
+    "tokens": [
+      "[CLS]",
+      "it",
+      "'",
+      "s",
+      "one",
+      "pu",
+      "##ssy",
+      "-",
+      "ass",
+      "world",
+      "when",
+      "even",
+      "killer",
+      "-",
+      "thriller",
+      "##s",
+      "re",
+      "##vo",
+      "##lve",
+      "around",
+      "group",
+      "therapy",
+      "sessions",
+      ".",
+      "[SEP]"
+    ],
+    "pred": "0",
+    "golden": "0",
+    "pred_logits": [
+      [
+        1.6370398998260498,
+        -1.9928147792816162
+      ]
+    ]
+  },
+  {
+    "index": 83,
+    "tokens": [
+      "[CLS]",
+      "though",
+      "it",
+      "'",
+      "s",
+      "become",
+      "almost",
+      "redundant",
+      "to",
+      "say",
+      "so",
+      ",",
+      "major",
+      "k",
+      "##udo",
+      "##s",
+      "go",
+      "to",
+      "le",
+      "##igh",
+      "for",
+      "actually",
+      "casting",
+      "people",
+      "who",
+      "look",
+      "working",
+      "-",
+      "class",
+      ".",
+      "[SEP]"
+    ],
+    "pred": "0",
+    "golden": "1",
+    "pred_logits": [
+      [
+        0.6606898307800293,
+        -0.97446608543396
+      ]
+    ]
+  },
+  {
+    "index": 84,
+    "tokens": [
+      "[CLS]",
+      "the",
+      "band",
+      "'",
+      "s",
+      "courage",
+      "in",
+      "the",
+      "face",
+      "of",
+      "official",
+      "repression",
+      "is",
+      "inspiring",
+      ",",
+      "especially",
+      "for",
+      "aging",
+      "hip",
+      "##pies",
+      "(",
+      "this",
+      "one",
+      "included",
+      ")",
+      ".",
+      "[SEP]"
+    ],
+    "pred": "1",
+    "golden": "1",
+    "pred_logits": [
+      [
+        -4.015439510345459,
+        4.737218856811523
+      ]
+    ]
+  },
+  {
+    "index": 85,
+    "tokens": [
+      "[CLS]",
+      "the",
+      "movie",
+      "achieve",
+      "##s",
+      "as",
+      "great",
+      "an",
+      "impact",
+      "by",
+      "keeping",
+      "these",
+      "thoughts",
+      "hidden",
+      "as",
+      ".",
+      ".",
+      ".",
+      "(",
+      "q",
+      "##uil",
+      "##ls",
+      ")",
+      "did",
+      "by",
+      "showing",
+      "them",
+      ".",
+      "[SEP]"
+    ],
+    "pred": "1",
+    "golden": "1",
+    "pred_logits": [
+      [
+        -3.7886719703674316,
+        4.308879375457764
+      ]
+    ]
+  },
+  {
+    "index": 86,
+    "tokens": [
+      "[CLS]",
+      "the",
+      "film",
+      "flat",
+      "lines",
+      "when",
+      "it",
+      "should",
+      "peak",
+      "and",
+      "is",
+      "more",
+      "missed",
+      "opportunity",
+      "and",
+      "t",
+      "##ri",
+      "##fle",
+      "than",
+      "dark",
+      ",",
+      "decade",
+      "##nt",
+      "t",
+      "##ruff",
+      "##le",
+      ".",
+      "[SEP]"
+    ],
+    "pred": "0",
+    "golden": "0",
+    "pred_logits": [
+      [
+        3.805635452270508,
+        -4.15779447555542
+      ]
+    ]
+  },
+  {
+    "index": 87,
+    "tokens": [
+      "[CLS]",
+      "j",
+      "##ag",
+      "##lo",
+      "##m",
+      ".",
+      ".",
+      ".",
+      "put",
+      "(",
+      "s",
+      ")",
+      "the",
+      "audience",
+      "in",
+      "the",
+      "privileged",
+      "position",
+      "of",
+      "e",
+      "##aves",
+      "##dr",
+      "##opping",
+      "on",
+      "his",
+      "characters",
+      "[SEP]"
+    ],
+    "pred": "1",
+    "golden": "1",
+    "pred_logits": [
+      [
+        -1.3315539360046387,
+        1.1919851303100586
+      ]
+    ]
+  },
+  {
+    "index": 88,
+    "tokens": [
+      "[CLS]",
+      "f",
+      "##res",
+      "##na",
+      "##di",
+      "##llo",
+      "'",
+      "s",
+      "dark",
+      "and",
+      "jolt",
+      "##ing",
+      "images",
+      "have",
+      "a",
+      "way",
+      "of",
+      "p",
+      "##lying",
+      "into",
+      "your",
+      "sub",
+      "##conscious",
+      "like",
+      "the",
+      "nightmare",
+      "you",
+      "had",
+      "a",
+      "week",
+      "ago",
+      "that",
+      "w",
+      "##o",
+      "n",
+      "'",
+      "t",
+      "go",
+      "away",
+      ".",
+      "[SEP]"
+    ],
+    "pred": "1",
+    "golden": "1",
+    "pred_logits": [
+      [
+        -2.015453815460205,
+        2.055914878845215
+      ]
+    ]
+  },
+  {
+    "index": 89,
+    "tokens": [
+      "[CLS]",
+      "we",
+      "know",
+      "the",
+      "plot",
+      "'",
+      "s",
+      "a",
+      "little",
+      "crazy",
+      ",",
+      "but",
+      "it",
+      "held",
+      "my",
+      "interest",
+      "from",
+      "start",
+      "to",
+      "finish",
+      ".",
+      "[SEP]"
+    ],
+    "pred": "1",
+    "golden": "1",
+    "pred_logits": [
+      [
+        -4.096789360046387,
+        4.747016906738281
+      ]
+    ]
+  },
+  {
+    "index": 90,
+    "tokens": [
+      "[CLS]",
+      "it",
+      "'",
+      "s",
+      "a",
+      "s",
+      "##cat",
+      "##ters",
+      "##hot",
+      "affair",
+      ",",
+      "but",
+      "when",
+      "it",
+      "hits",
+      "its",
+      "mark",
+      "it",
+      "'",
+      "s",
+      "brilliant",
+      ".",
+      "[SEP]"
+    ],
+    "pred": "1",
+    "golden": "1",
+    "pred_logits": [
+      [
+        -4.404379367828369,
+        4.803780555725098
+      ]
+    ]
+  },
+  {
+    "index": 91,
+    "tokens": [
+      "[CLS]",
+      "hardly",
+      "a",
+      "masterpiece",
+      ",",
+      "but",
+      "it",
+      "introduces",
+      "viewers",
+      "to",
+      "a",
+      "good",
+      "charitable",
+      "enterprise",
+      "and",
+      "some",
+      "interesting",
+      "real",
+      "people",
+      ".",
+      "[SEP]"
+    ],
+    "pred": "1",
+    "golden": "1",
+    "pred_logits": [
+      [
+        -3.884939193725586,
+        4.114116191864014
+      ]
+    ]
+  },
+  {
+    "index": 92,
+    "tokens": [
+      "[CLS]",
+      "you",
+      "w",
+      "##o",
+      "n",
+      "'",
+      "t",
+      "like",
+      "r",
+      "##og",
+      "##er",
+      ",",
+      "but",
+      "you",
+      "will",
+      "quickly",
+      "recognize",
+      "him",
+      ".",
+      "[SEP]"
+    ],
+    "pred": "1",
+    "golden": "0",
+    "pred_logits": [
+      [
+        -4.267027854919434,
+        4.67102575302124
+      ]
+    ]
+  },
+  {
+    "index": 93,
+    "tokens": [
+      "[CLS]",
+      "if",
+      "s",
+      "##te",
+      "##ven",
+      "so",
+      "##der",
+      "##berg",
+      "##h",
+      "'",
+      "s",
+      "`",
+      "solar",
+      "##is",
+      "'",
+      "is",
+      "a",
+      "failure",
+      "it",
+      "is",
+      "a",
+      "glorious",
+      "failure",
+      ".",
+      "[SEP]"
+    ],
+    "pred": "0",
+    "golden": "1",
+    "pred_logits": [
+      [
+        4.207314491271973,
+        -4.417354106903076
+      ]
+    ]
+  },
+  {
+    "index": 94,
+    "tokens": [
+      "[CLS]",
+      "by",
+      "##ler",
+      "reveals",
+      "his",
+      "characters",
+      "in",
+      "a",
+      "way",
+      "that",
+      "in",
+      "##tri",
+      "##gues",
+      "and",
+      "even",
+      "f",
+      "##as",
+      "##cin",
+      "##ates",
+      "us",
+      ",",
+      "and",
+      "he",
+      "never",
+      "reduces",
+      "the",
+      "situation",
+      "to",
+      "simple",
+      "me",
+      "##lo",
+      "##dra",
+      "##ma",
+      ".",
+      "[SEP]"
+    ],
+    "pred": "1",
+    "golden": "1",
+    "pred_logits": [
+      [
+        -4.289884090423584,
+        4.861453056335449
+      ]
+    ]
+  },
+  {
+    "index": 95,
+    "tokens": [
+      "[CLS]",
+      "this",
+      "r",
+      "##ive",
+      "##ting",
+      "world",
+      "war",
+      "ii",
+      "moral",
+      "su",
+      "##spense",
+      "story",
+      "deals",
+      "with",
+      "the",
+      "shadow",
+      "side",
+      "of",
+      "am",
+      "##eric",
+      "##an",
+      "culture",
+      ":",
+      "racial",
+      "prejudice",
+      "in",
+      "its",
+      "ugly",
+      "and",
+      "diverse",
+      "forms",
+      ".",
+      "[SEP]"
+    ],
+    "pred": "1",
+    "golden": "0",
+    "pred_logits": [
+      [
+        -3.1004891395568848,
+        2.9326343536376953
+      ]
+    ]
+  },
+  {
+    "index": 96,
+    "tokens": [
+      "[CLS]",
+      "it",
+      "'",
+      "s",
+      "difficult",
+      "to",
+      "imagine",
+      "the",
+      "process",
+      "that",
+      "produced",
+      "such",
+      "a",
+      "script",
+      ",",
+      "but",
+      "here",
+      "'",
+      "s",
+      "guessing",
+      "that",
+      "spray",
+      "cheese",
+      "and",
+      "under",
+      "##arm",
+      "noises",
+      "played",
+      "a",
+      "crucial",
+      "role",
+      ".",
+      "[SEP]"
+    ],
+    "pred": "0",
+    "golden": "0",
+    "pred_logits": [
+      [
+        2.602257013320923,
+        -2.6370134353637695
+      ]
+    ]
+  },
+  {
+    "index": 97,
+    "tokens": [
+      "[CLS]",
+      "no",
+      "sophomore",
+      "s",
+      "##lump",
+      "for",
+      "director",
+      "sa",
+      "##m",
+      "men",
+      "##des",
+      ",",
+      "who",
+      "se",
+      "##gues",
+      "from",
+      "o",
+      "##sca",
+      "##r",
+      "winner",
+      "to",
+      "o",
+      "##sca",
+      "##r",
+      "-",
+      "winning",
+      "potential",
+      "with",
+      "a",
+      "smooth",
+      "s",
+      "##leigh",
+      "##t",
+      "of",
+      "hand",
+      ".",
+      "[SEP]"
+    ],
+    "pred": "1",
+    "golden": "1",
+    "pred_logits": [
+      [
+        -3.4059338569641113,
+        3.8854241371154785
+      ]
+    ]
+  },
+  {
+    "index": 98,
+    "tokens": [
+      "[CLS]",
+      "on",
+      "the",
+      "whole",
+      ",",
+      "the",
+      "movie",
+      "lacks",
+      "wit",
+      ",",
+      "feeling",
+      "and",
+      "be",
+      "##lie",
+      "##va",
+      "##bility",
+      "to",
+      "compensate",
+      "for",
+      "its",
+      "in",
+      "##cess",
+      "##ant",
+      "coarse",
+      "##ness",
+      "and",
+      "ban",
+      "##ality",
+      ".",
+      "[SEP]"
+    ],
+    "pred": "0",
+    "golden": "0",
+    "pred_logits": [
+      [
+        4.448611259460449,
+        -4.58858060836792
+      ]
+    ]
+  },
+  {
+    "index": 99,
+    "tokens": [
+      "[CLS]",
+      "why",
+      "make",
+      "a",
+      "documentary",
+      "about",
+      "these",
+      "marginal",
+      "historical",
+      "figures",
+      "?",
+      "[SEP]"
+    ],
+    "pred": "0",
+    "golden": "0",
+    "pred_logits": [
+      [
+        3.628814697265625,
+        -3.9419891834259033
+      ]
+    ]
+  }
+]
