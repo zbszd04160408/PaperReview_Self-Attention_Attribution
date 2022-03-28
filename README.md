@@ -46,12 +46,11 @@ This paper kind of missing details of each experiment. For the first use case, I
 
 ### Topic 1:
 
-
+Do you think more tokens means higher accuracy when training Transformer models? 
 
 ### Topic 2:
 
 What other use cases can you come up with the Self-Attention Attribution method? 
-
 
 ### Topic 3:
 
@@ -59,4 +58,14 @@ As this paper is nominated as the Best Paper Award, why do you think this paper 
 
 ## Resource Links
 
+Paper: https://arxiv.org/abs/2004.11207
+
+Repo: https://github.com/YRdddream/attattr
+
+Video: https://www.youtube.com/watch?v=0keN57ao9J8
+
 ## Video Recording
+
+## Code Demo
+
+In this repo. 
