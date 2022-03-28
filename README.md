@@ -15,6 +15,11 @@
 
 <img width="346" alt="image" src="https://user-images.githubusercontent.com/56851668/160320623-39d0e9ac-3bab-4353-9778-c62e9fe84b1d.png">
 
+- dot product means element-wise multiplication
+- Ah denotes the h-th head's attention weight matrix
+- the integral part computes the gradient of model F
+
+
 3. Effective Analysis
 
 <img width="415" alt="image" src="https://user-images.githubusercontent.com/56851668/160323010-993dccb3-2b66-4f90-bbbf-7ffe313fb697.png">
