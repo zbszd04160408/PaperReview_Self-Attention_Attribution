@@ -46,12 +46,11 @@ This paper kind of missing details of each experiment. For the first use case, I
 
 ### Topic 1:
 
-
+Do you think more tokens means higher accuracy when training Transformer models? 
 
 ### Topic 2:
 
 What other use cases can you come up with the Self-Attention Attribution method? 
-
 
 ### Topic 3:
 
